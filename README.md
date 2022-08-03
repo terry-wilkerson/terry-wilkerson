@@ -6,6 +6,9 @@
 
 [![Terry's github activity graph](https://activity-graph.herokuapp.com/graph?username=terry-wilkerson&theme=xcode)](https://github.com/terry-wilkerson)
 
+<br>
+<br>
+ 
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
   <p align="center">
@@ -15,8 +18,8 @@
   </p>
 </details>
 
-<p align="center">
- <b>Tools and Technologies</b>
+<details align="center">
+ <summary>Tools and Technologies 🛠</summary>
  <br>
  <br>
  
@@ -43,17 +46,16 @@
  <img width="60px" src="https://embed.widencdn.net/download/crestron/ry8psig8ie/master_photo_a-SW-SIMPL-PLUS.png" alt="Crestron S+ Sharp Logo" />
  <img width="60px" src="https://embed.widencdn.net/download/crestron/scht1vcd5d/master_photo_a-SW-VTPRO-E.png" alt="Crestron VTP Sharp Logo" />
  <img width="60px" src="https://embed.widencdn.net/download/crestron/074vx9ktkr/master_photo_a-SW-SIMPL-SHARP-PRO.png" alt="Crestron SIMPL Sharp Logo" />
+</details> 
  
- 
- 
- <br>
- <br>
+ ___
+ <p align="center">
  <b>Account Links</b>
  <br>
  <br>
  <a href="https://www.linkedin.com/in/terrywilkerson/">
  <img width="50px" alt="LinkedIn Logo" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
-</p>
+
 
 
 
