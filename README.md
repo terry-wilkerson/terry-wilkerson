@@ -63,9 +63,9 @@
 
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terry-wilkerson&theme=tokyonight&layout=compact)](https://github.com/terry-wilkerson) -->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terry-wilkerson&theme=tokyonight&layout=compact)](https://github.com/terry-wilkerson) -->
 
-<!-- [![Terry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=terry-wilkerson)](https://github.com/terry-wilkerson) -->
+<!-- [![Terry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=twilkerson)](https://github.com/terry-wilkerson) -->
 
 <!--
 **terry-wilkerson/terry-wilkerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
