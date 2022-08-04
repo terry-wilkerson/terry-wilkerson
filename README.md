@@ -1,10 +1,15 @@
+### My Github Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=terry-wilkerson&count_private=true&show_icons=true&theme=tokyonight" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=terry-wilkerson&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=terry-wilkerson&count_private=true&show_icons=true&theme=tokyonight" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com?user=terry-wilkerson&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" /></td>
+</tr>
+</table>
+<a href="http://www.github.com/terry-wilkerson"><img src="https://activity-graph.herokuapp.com/graph?username=terry-wilkerson&theme=xcode" alt="GitHub Commits Graph" />
 </p>
 
-[![Terry's github activity graph](https://activity-graph.herokuapp.com/graph?username=terry-wilkerson&theme=xcode)](https://github.com/terry-wilkerson)
+<!-- [![Terry's github activity graph](https://activity-graph.herokuapp.com/graph?username=terry-wilkerson&theme=xcode)](https://github.com/terry-wilkerson)-->
 
 <br>
 <br>
@@ -47,6 +52,8 @@
  <img width="60px" src="https://embed.widencdn.net/download/crestron/scht1vcd5d/master_photo_a-SW-VTPRO-E.png" alt="Crestron VTP Sharp Logo" />
  <img width="60px" src="https://embed.widencdn.net/download/crestron/074vx9ktkr/master_photo_a-SW-SIMPL-SHARP-PRO.png" alt="Crestron SIMPL Sharp Logo" />
 </details> 
+ <br>
+ <br>
  
  ___
  <p align="center">
@@ -56,16 +63,12 @@
  <a href="https://www.linkedin.com/in/terrywilkerson/">
  <img width="50px" alt="LinkedIn Logo" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 
-
-
-
-
-
-
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terry-wilkerson&theme=tokyonight&layout=compact)](https://github.com/terry-wilkerson) -->
 
-<!-- [![Terry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=twilkerson)](https://github.com/terry-wilkerson) -->
+<!-- [![Terry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=01aabb45-cb7f-440e-9df0-b04f6ca47669)](https://github.com/terry-wilkerson) -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **terry-wilkerson/terry-wilkerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
