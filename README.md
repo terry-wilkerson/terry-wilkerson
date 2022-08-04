@@ -9,18 +9,11 @@
 <a href="http://www.github.com/terry-wilkerson"><img src="https://activity-graph.herokuapp.com/graph?username=terry-wilkerson&theme=xcode" alt="GitHub Commits Graph" />
 </p>
 
-<!-- [![Terry's github activity graph](https://activity-graph.herokuapp.com/graph?username=terry-wilkerson&theme=xcode)](https://github.com/terry-wilkerson)-->
-
-<br>
-<br>
- 
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-      <img src="https://github-profile-trophy.vercel.app/?username=terry-wilkerson&theme=tokyonight"/>
-    </a>
-  </p>
+  <br>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=terry-wilkerson&theme=tokyonight"/>
 </details>
 
 <details align="center">
@@ -52,25 +45,30 @@
  <img width="60px" src="https://embed.widencdn.net/download/crestron/scht1vcd5d/master_photo_a-SW-VTPRO-E.png" alt="Crestron VTP Sharp Logo" />
  <img width="60px" src="https://embed.widencdn.net/download/crestron/074vx9ktkr/master_photo_a-SW-SIMPL-SHARP-PRO.png" alt="Crestron SIMPL Sharp Logo" />
 </details> 
+
  <br>
  <br>
  
  ___
+ 
  <p align="center">
  <b>Account Links</b>
  <br>
  <br>
  <a href="https://www.linkedin.com/in/terrywilkerson/">
  <img width="50px" alt="LinkedIn Logo" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terry-wilkerson&theme=tokyonight&layout=compact)](https://github.com/terry-wilkerson) -->
-
-<!-- [![Terry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=01aabb45-cb7f-440e-9df0-b04f6ca47669)](https://github.com/terry-wilkerson) -->
-
+ 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <!--
+[![Terry's github activity graph](https://activity-graph.herokuapp.com/graph?username=terry-wilkerson&theme=xcode)](https://github.com/terry-wilkerson)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terry-wilkerson&theme=tokyonight&layout=compact)](https://github.com/terry-wilkerson)
+
+[![Terry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=01aabb45-cb7f-440e-9df0-b04f6ca47669)](https://github.com/terry-wilkerson)
+
+
 **terry-wilkerson/terry-wilkerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
