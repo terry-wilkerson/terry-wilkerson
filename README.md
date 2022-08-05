@@ -59,6 +59,11 @@
  <img width="50px" alt="LinkedIn Logo" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
  
 <!--START_SECTION:waka-->
+
+```text
+Other   18 mins         ████████████▓░░░░░░░░░░░░   50.07 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
