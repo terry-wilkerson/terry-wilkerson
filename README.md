@@ -61,8 +61,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Artboard     5 hrs 23 mins   ██████████████████████░░░   88.57 %
-Other        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Artboard     5 hrs 23 mins   ██████████████████████░░░   88.53 %
+Other        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
 ```
 
 <!--END_SECTION:waka-->
