@@ -6,6 +6,7 @@
 <td><img src="https://github-readme-streak-stats.herokuapp.com?user=terry-wilkerson&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" /></td>
 </tr>
 </table>
+<a href="http://www.github.com/terry-wilkerson"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=terry-wilkerson&theme=xcode" alt="GitHub Commits Graph" />
 </p>
 
 <details align="center">
@@ -76,9 +77,6 @@ XML              38 mins         █░░░░░░░░░░░░░░�
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terry-wilkerson&theme=tokyonight&layout=compact)](https://github.com/terry-wilkerson)
 
 [![Terry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=01aabb45-cb7f-440e-9df0-b04f6ca47669)](https://github.com/terry-wilkerson)
-
-STOPPED WORKING ~2/15/2023
-<a href="http://www.github.com/terry-wilkerson"><img src="https://activity-graph.herokuapp.com/graph?username=terry-wilkerson&theme=xcode" alt="GitHub Commits Graph" />
 
 **terry-wilkerson/terry-wilkerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
