@@ -59,15 +59,16 @@
  <img width="50px" alt="LinkedIn Logo" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
  
 <!--START_SECTION:waka-->
-<!--
+
 ```text
-C#                      3 hrs 23 mins   █████████████████████▒░░░   85.07 %
-JSON                    23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-.NET Project Settings   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Csproj                  2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Other                   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+C#                      4 hrs 59 mins   ████████████████████░░░░░   79.60 %
+JSON                    23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Config                  21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+XML                     16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Csproj                  5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+.NET Project Settings   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
--->
+
 <!--END_SECTION:waka-->
 
 <!--
