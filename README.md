@@ -61,11 +61,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#              2 hrs 44 mins   ███████████████████████░░   92.17 %
-Solution File   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-Markdown        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Csproj          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Config          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
