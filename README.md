@@ -6,7 +6,7 @@
 <td><img src="https://github-readme-streak-stats.herokuapp.com?user=terry-wilkerson&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" /></td>
 </tr>
 </table>
-<a href="http://www.github.com/terry-wilkerson"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=terry-wilkerson&theme=xcode" alt="GitHub Commits Graph" />
+<!-- <a href="http://www.github.com/terry-wilkerson"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=terry-wilkerson&theme=xcode" alt="GitHub Commits Graph" /> -->
 </p>
 
 <details align="center">
