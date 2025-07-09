@@ -1,11 +1,12 @@
 ### My Github Stats:
 <p align="center">
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=terry-wilkerson&count_private=true&show_icons=true&theme=tokyonight" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com?user=terry-wilkerson&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" /></td>
-</tr>
-</table>
+<!-- <table> -->
+<!-- <tr> -->
+<!-- <td><img src="https://github-readme-stats.vercel.app/api?username=terry-wilkerson&count_private=true&show_icons=true&theme=tokyonight" /></td> -->
+<!-- <td><img src="https://github-readme-streak-stats.herokuapp.com?user=terry-wilkerson&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" /></td> -->
+<!-- </tr> -->
+<!-- </table> -->
+<img src="https://github-readme-stats.vercel.app/api?username=terry-wilkerson&count_private=true&show_icons=true&theme=tokyonight" />
 <!-- <a href="http://www.github.com/terry-wilkerson"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=terry-wilkerson&theme=xcode" alt="GitHub Commits Graph" /> -->
 </p>
 
